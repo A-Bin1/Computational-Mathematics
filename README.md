@@ -1,3 +1,3 @@
 # Computational-Mathematics
 
-Samples with heavier focus on computational math accompanied with necessary statistical models, machine learning.
+Applied and computational math problems in LaTex along with relevant mathematical/stats modeling and machine learning projects.
